@@ -99,6 +99,7 @@ nav {
     grid-column: 1 / 4;
     grid-row: 3 / 4;
     line-height: 130%;
+    font-size: 1.5em;
 } 
 
 .Sonja {
@@ -166,6 +167,7 @@ nav {
     grid-column: 2 / 3;
     grid-row: 2 / 3;
     line-height: 130%;
+    font-size: 1em;
 } 
 
 .Sonja {
